@@ -1,11 +1,12 @@
 
 ## Project Name
 -------
-## Document Similarity using Corpus Based Approach
+## Document Similarity using Corpus Based Approach - Semantic Text Similarity
 
 ------
 
 ![corpus](./Docs/corpus.jpg)
+
 
 ## Project Description
 
