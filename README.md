@@ -1,7 +1,7 @@
 
 ## Natural Language Processing - Text Mining
 -----
-![NLP](./nlp.png)
+![NLP](./NLP.jpg)
 
 
 This Repository is track of advance topics in Natural Language Processing (NLP),and Text Mining and implementing them form the basics.
