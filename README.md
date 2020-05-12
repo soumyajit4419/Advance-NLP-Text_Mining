@@ -20,6 +20,8 @@ I hope that you would enjoy while checking out those repositories and make chang
 | | | | |
 |`Document Summarization`|`Summarization of large documents`|`Extractive Method`, `Tf-Idf`,`TextRank`|[Repository](https://github.com/soumyajit4419/Advance-NLP-Text_Mining/tree/master/Text_Summarization%20%5BExtractive%5D)|
 | | | | |
+|`Name Entity Recognition`|`Identifing Name Entity in documents`|`SpaCy`, `NLTK`|[Repository](https://github.com/soumyajit4419/Advance-NLP-Text_Mining/tree/master/Name_Entity_Recognition%20%5BMachine%20Learning%5D)|
+| | | | |
 
 
 
