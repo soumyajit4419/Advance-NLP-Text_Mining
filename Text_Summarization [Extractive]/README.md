@@ -29,8 +29,11 @@
 * Python
 
 ### Usage
-* The code to calculate TF-IDF of sentence ./TFIDF_Calculation.ipynb
-* The code to summarize a paragraph using Tf-Idf method ./TFIDF_Text_Summarization.ipynb
+* The Details of algorithm and explaination with code for TFIDF-Summarization [Tfidf Code](https://github.com/soumyajit4419/Advance-NLP-Text_Mining/tree/master/Text_Summarization%20%5BExtractive%5D/Tfidf_Summarization)
+<br/>
+
+* The Details of algorithm and explaination with code for Text-Rank-Summarization [Text Rank Code](https://github.com/soumyajit4419/Advance-NLP-Text_Mining/tree/master/Text_Summarization%20%5BExtractive%5D/Text_Rank_Summarization)
+
 
 
 
