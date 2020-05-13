@@ -15,8 +15,8 @@
 #### The extractive text summarization technique involves pulling keyphrases from the source document and combining them to make a summary. The extraction is made according to the defined metric without making any changes to the texts. Although sometimes the summary can be grammatically strange.
 
 #### I have used two methods for Summarization of text:
-* TFIDF Method :-Generating Summary based on 'tfidf' score.
-* Text Rank Method:-  
+* TFIDF Method : Generating Summary based on 'tfidf' score.
+* Text Rank Method: Genearting Summary based on 'text rank algorithm' similar to google page rank.
 
 ### Methods Used
 * Machine Learning
