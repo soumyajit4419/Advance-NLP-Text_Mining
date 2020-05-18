@@ -5,12 +5,12 @@
 ![Process](./text.webp)
 ## Steps
 
-* Then split the text into individual sentences
-*  Find the vector representation (word embeddings) for each and every sentence
-* Claculate Similarities between sentence vectors are then calculated and stored in a matrix
-* The similarity matrix is then converted into a graph, with sentences as vertices and similarity scores as edges, for sentence rank calculation
+* Then split the text into individual sentences.
+*  Find the vector representation (word embeddings) for each and every sentence.
+* Calculate Similarities between sentence using vectors and the results are stored in a simialrity matrix.
+* The similarity matrix is then converted into a graph, with sentences as vertices and similarity scores as edges, for sentence rank calculation.
 * On this graph, apply the PageRank algorithm to arrive at the sentence rankings.
-* Form the summary based on ranking.
+* From the summary based on ranking.
 
 ## Explanation
 
