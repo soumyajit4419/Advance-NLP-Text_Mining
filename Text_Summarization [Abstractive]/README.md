@@ -34,7 +34,7 @@
 * Python
 
 ### Usage
-* Code for Implementation [Transformer](https://github.com/soumyajit4419/Advance-NLP-Text_Mining/blob/master/Text_Summarization%20%5BAbstractive%5D/Text_Summarization_using_BART.ipynb)
+* Code for Implementation [https://github.com/soumyajit4419/Advance-NLP-Text_Mining/blob/master/Text_Summarization%20%5BAbstractive%5D/Text_Summarization_using_BART.ipynb](https://github.com/soumyajit4419/Advance-NLP-Text_Mining/blob/master/Text_Summarization%20%5BAbstractive%5D/Text_Summarization_using_BART.ipynb)
 
 
 
